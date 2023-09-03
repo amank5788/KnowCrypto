@@ -20,7 +20,7 @@ const Header = () => {
       <Navbar style={{ padding: "10px 0" }}>
         <Container>
           <h2 className="app_title" onClick={() => navigate("/")}>
-            MetaCrypto
+            KnowCrypto
           </h2>
           <div
             className="formselectbtns"
